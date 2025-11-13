@@ -95,7 +95,7 @@ python grafico.py
 Antes de enviar seus arquivos (`git push`), faça estas três coisas:
 
 #### 1. CRIE o `requirements.txt`
-Seu professor precisa saber o que instalar. No seu prompt de comando, na pasta do projeto, rode:
+
 ```bash
 pip freeze > requirements.txt
 ```
